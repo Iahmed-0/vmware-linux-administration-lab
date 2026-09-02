@@ -1,0 +1,12 @@
+*.iso
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.pem
+*.key
+.env
+credentials*
+secrets*
+images/raw/
+private-notes/
